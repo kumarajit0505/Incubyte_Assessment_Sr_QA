@@ -281,13 +281,14 @@ Additional Notes:
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 2026-06-26 | Senior Manual Test Engineer | Initial creation with 60 test cases |
+| 1.0 | 2026-06-26 |Ajit Kumar | Initial creation with 60 test cases |
 
 ---
 
 ## Contact
 
-For questions or clarifications regarding these test cases, contact the Test Engineering team.
+Ajit Kumar
+ajit112ind@gmail.com, ajitkr504@outlook.com
 
 ---
 
